@@ -1,11 +1,12 @@
 
+<div align="center">
+<a href="https://instagram.com/rafaelmerlotto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://www.facebook.com/rafaelmerlotto" target="_blank"><img src="https://img.shields.io/badge/-Facebbok-%230077B5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
+ <a href ="https://github.com/rafaelmerlotto"><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href = "rafaelmerlotto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-ef2f2f?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 <div>
-<a href="https://www.facebook.com/rafael.merlotto" target="_blank"><img src="https://img.icons8.com/fluency/48/undefined/facebook-new.png" width="30px"/></a>
-<a href="https://www.instagram.com/rafaelmerlotto" target="_blank"><img src="https://img.icons8.com/fluency/48/undefined/instagram-new.png" width="30px"/></a>
-<a href="https://github.com/rafaelmerlotto" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/github.png" width="30px"/></a>
-<a href="https://www.linkedin.com/in/rafael-merlotto-715266101/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="30px"/></a>
-<a href="mailto:rafaelmerlotto@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/48/undefined/gmail.png" width="30px"/></a>
-
 <h1  align="center"> <img src="https://img.icons8.com/fluency/48/000000/source-code.png"/></h1>
 </div>
 <div>
